@@ -1,7 +1,7 @@
 ## JavaScript Internals, sample applications and other important links
 
-### Data Types:
-	#### Seven Primitives
+1. Data Types:
+	* Primitives
 		- String
 		- Number
 		- Boolean
