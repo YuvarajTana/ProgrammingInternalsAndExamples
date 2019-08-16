@@ -1,0 +1,82 @@
+# Data Structers and Algorithms:
+
+	Understanding below is required or pre-Requests:
+
+		Big-O => O(n)
+
+		Time Complexity
+
+		Space Complexity
+		
+
+	Data Structures:
+		Linear 
+			
+			Arrays
+
+			Stack (LIFO - Last In First Out) 
+				push
+				pop
+				size
+				top
+        
+			Queue
+				enQueue
+				DeQueue
+
+			Linked List
+
+
+		Non Linear
+			Tree
+			Graph
+			Hash Table 
+			Heap
+
+	Algorithims:
+
+		Searching Algorithms
+
+			Linear Search(Sequential Search)
+
+			Binary Search
+
+		Sorting Algorithms
+			Quick Sort
+			Merge Sort
+			Bubble Sort
+			Heap Sort
+			Selection Sort
+			Insertion Sort
+
+		Dynamic Programming
+		
+		Graph Algorithms
+			BFS(Breadth First Search)
+
+			DFS(Depth First Search)
+			
+
+Top algorithms:
+
+	DFS
+	
+	BFS
+
+	Matching paranthsis
+		
+		Using stack 
+		
+		Using Recurrsion
+	
+	Hash Tables(Its DS)
+		Dynamic Programming, Memozitation, cache
+	
+	Variables/Pointers manipulating
+		Find longest palondrome substring in string
+
+	Reversing LinkedList
+	
+
+
+
